@@ -7,8 +7,8 @@
 
 			embeddedservice_bootstrap.init(
 				'00DNS00000I6Q94',
-				'ESA_Web_Deployment',
-				'https://orgfarm-d9a2cf9d0b-dev-ed.develop.my.site.com/ESWESAWebDeployment1724800920657',
+				'Test_Service',
+				'https://orgfarm-d9a2cf9d0b-dev-ed.develop.my.site.com/ESWTestService1745497311555',
 				{
 					scrt2URL: 'https://orgfarm-d9a2cf9d0b-dev-ed.develop.my.salesforce-scrt.com'
 				}
@@ -18,7 +18,8 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://orgfarm-d9a2cf9d0b-dev-ed.develop.my.site.com/ESWESAWebDeployment1724800920657/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://orgfarm-d9a2cf9d0b-dev-ed.develop.my.site.com/ESWTestService1745497311555/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+
 
 	</body>
 </html>
